@@ -1,6 +1,5 @@
 # osul/solr:latest
-FROM solr:6.2
-MAINTAINER Corey Hinshaw <hinshaw.25@osu.edu>
+FROM solr:8.6
 
 USER root
 
